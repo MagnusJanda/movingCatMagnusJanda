@@ -32,6 +32,8 @@
             this.mniFile = new System.Windows.Forms.ToolStripMenuItem();
             this.mniCat = new System.Windows.Forms.ToolStripMenuItem();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.mniCat1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.mniCat2 = new System.Windows.Forms.ToolStripMenuItem();
             this.mnuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -56,6 +58,9 @@
             // 
             // mniCat
             // 
+            this.mniCat.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mniCat1,
+            this.mniCat2});
             this.mniCat.Name = "mniCat";
             this.mniCat.Size = new System.Drawing.Size(37, 20);
             this.mniCat.Text = "Cat";
@@ -67,6 +72,18 @@
             this.pictureBox1.Size = new System.Drawing.Size(228, 201);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
+            // 
+            // mniCat1
+            // 
+            this.mniCat1.Name = "mniCat1";
+            this.mniCat1.Size = new System.Drawing.Size(152, 22);
+            this.mniCat1.Text = "Cat 1";
+            // 
+            // mniCat2
+            // 
+            this.mniCat2.Name = "mniCat2";
+            this.mniCat2.Size = new System.Drawing.Size(152, 22);
+            this.mniCat2.Text = "Cat 2";
             // 
             // frmMovingCat
             // 
@@ -93,6 +110,8 @@
         private System.Windows.Forms.ToolStripMenuItem mniFile;
         private System.Windows.Forms.ToolStripMenuItem mniCat;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.ToolStripMenuItem mniCat1;
+        private System.Windows.Forms.ToolStripMenuItem mniCat2;
     }
 }
 
