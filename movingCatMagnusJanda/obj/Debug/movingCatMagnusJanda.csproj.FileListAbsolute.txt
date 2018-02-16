@@ -1,0 +1,9 @@
+C:\Users\s220117\Desktop\MagnusJprogramming\movingCatMagnusJanda\movingCatMagnusJanda\bin\Debug\movingCatMagnusJanda.exe.config
+C:\Users\s220117\Desktop\MagnusJprogramming\movingCatMagnusJanda\movingCatMagnusJanda\bin\Debug\movingCatMagnusJanda.exe
+C:\Users\s220117\Desktop\MagnusJprogramming\movingCatMagnusJanda\movingCatMagnusJanda\bin\Debug\movingCatMagnusJanda.pdb
+C:\Users\s220117\Desktop\MagnusJprogramming\movingCatMagnusJanda\movingCatMagnusJanda\obj\Debug\movingCatMagnusJanda.csprojResolveAssemblyReference.cache
+C:\Users\s220117\Desktop\MagnusJprogramming\movingCatMagnusJanda\movingCatMagnusJanda\obj\Debug\movingCatMagnusJanda.frmMovingCat.resources
+C:\Users\s220117\Desktop\MagnusJprogramming\movingCatMagnusJanda\movingCatMagnusJanda\obj\Debug\movingCatMagnusJanda.Properties.Resources.resources
+C:\Users\s220117\Desktop\MagnusJprogramming\movingCatMagnusJanda\movingCatMagnusJanda\obj\Debug\movingCatMagnusJanda.csproj.GenerateResource.Cache
+C:\Users\s220117\Desktop\MagnusJprogramming\movingCatMagnusJanda\movingCatMagnusJanda\obj\Debug\movingCatMagnusJanda.exe
+C:\Users\s220117\Desktop\MagnusJprogramming\movingCatMagnusJanda\movingCatMagnusJanda\obj\Debug\movingCatMagnusJanda.pdb

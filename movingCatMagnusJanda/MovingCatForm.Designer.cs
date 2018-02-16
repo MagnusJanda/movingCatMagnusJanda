@@ -28,12 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMovingCat));
             this.mnuStrip1 = new System.Windows.Forms.MenuStrip();
             this.mniFile = new System.Windows.Forms.ToolStripMenuItem();
             this.mniCat = new System.Windows.Forms.ToolStripMenuItem();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.mniCat1 = new System.Windows.Forms.ToolStripMenuItem();
             this.mniCat2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.mnuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -65,25 +66,27 @@
             this.mniCat.Size = new System.Drawing.Size(37, 20);
             this.mniCat.Text = "Cat";
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Location = new System.Drawing.Point(107, 94);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(228, 201);
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
-            // 
             // mniCat1
             // 
             this.mniCat1.Name = "mniCat1";
-            this.mniCat1.Size = new System.Drawing.Size(152, 22);
+            this.mniCat1.Size = new System.Drawing.Size(101, 22);
             this.mniCat1.Text = "Cat 1";
             // 
             // mniCat2
             // 
             this.mniCat2.Name = "mniCat2";
-            this.mniCat2.Size = new System.Drawing.Size(152, 22);
+            this.mniCat2.Size = new System.Drawing.Size(101, 22);
             this.mniCat2.Text = "Cat 2";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(162, 138);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(142, 157);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
             // 
             // frmMovingCat
             // 
